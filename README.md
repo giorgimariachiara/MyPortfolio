@@ -9,4 +9,4 @@ This repository contains all the projects developed so far for my master degree 
 |**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|Gangemi - Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE) 
 |**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
 |**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|Caraceni - Pescarin|/
-|**[La Storia è...](https://github.com/elizastuglik/Lastoria-)**|Laboratorio di Comunicazione visiva|Ielacqua- Giorgetta|/
+|**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Laboratorio di Comunicazione visiva|Ielacqua- Giorgetta|/
