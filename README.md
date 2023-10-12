@@ -15,21 +15,8 @@ This repository contains all the projects developed so far for my master degree 
 |**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|A. Gangemi - A.G. Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE) 
 |**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|S. Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
 |**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|S. Caraceni - S.  Pescarin|/
-|**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Visual communication laboratory|F. Ielacqua- D. Giorgetta|/
-|**[The Lives ](https://giorgimariachiara.github.io/TheLivesOf/index.html)**|Information Modeling And Web Technologies - Project Requirments: The overall purpose of MMMM is to create a system that organizes
-content into publications that are:
-– nicely presented according to easily switchable typographic themes,
-– georeferenced and shown on a map, and
-– enriched with a rich supply of metadata and additional services.
-The editorial board chooses 1, 2 or 3 topics (depending on the size of the
-group), and 3 texts (long or very long) on each topic, converts them into
-HTML, places interesting metadata in the content, and displays them with
-interesting connections between the articles, and a map.
-All typographic details, such as font family, sizes, colors, margins, aspect
-ratios, page sizes, images, captions, etc. are designed to exactly reflect a
-graphic theme.
-Thus the texts take the form and the feeling of a real serial publication,
-and stylistic and organizational similarities are really perceivable.|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf) 
+|**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Visual communication laboratory|F. Ielacqua - D. Giorgetta|/
+|**[The Lives ](https://giorgimariachiara.github.io/TheLivesOf/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf) 
 
 
 
