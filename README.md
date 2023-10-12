@@ -16,7 +16,7 @@ This repository contains all the projects developed so far for my master degree 
 |**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|S. Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
 |**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|S. Caraceni - S.  Pescarin|/
 |**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Visual communication laboratory|F. Ielacqua- D. Giorgetta|/
-|**[The Lives ](https://giorgimariachiara.github.io/DTTH/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository][(https://github.com/giorgimariachiara/DTTH)](https://github.com/giorgimariachiara/TheLivesOf) 
+|**[The Lives ](https://giorgimariachiara.github.io/DTTH/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf) 
 
 
 
