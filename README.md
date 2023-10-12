@@ -10,9 +10,18 @@ This repository contains all the projects developed so far for my master degree 
 # Projects:
 |**Project**|**Course**|**Professor(s)**|**Notes**
 |---|---|---|---|
-|**[Sicilia '80 ](https://giorgimariachiara.github.io/DTTH/index.html)**|Digital Text in the Humanities: Theories, Methodologies, Applications|Mancinelli|[View repository](https://github.com/giorgimariachiara/DTTH) 
-|**[Sansepolcro19](https://sansepolcro19.github.io/korganization//)**|Knowledge Management - Knowledge Organization and Cultural Heritage|Tomasi|[View repository](https://github.com/sansepolcro19/korganization)
-|**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|Gangemi - Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE) 
-|**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
-|**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|Caraceni - Pescarin|/
-|**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Laboratorio di Comunicazione visiva|Ielacqua- Giorgetta|/
+|**[Sicilia '80 ](https://giorgimariachiara.github.io/DTTH/index.html)**|Digital Text in the Humanities: Theories, Methodologies, Applications|T. Mancinelli|[View repository](https://github.com/giorgimariachiara/DTTH) 
+|**[Sansepolcro19](https://sansepolcro19.github.io/korganization//)**|Knowledge Management - Knowledge Organization and Cultural Heritage|F. Tomasi|[View repository](https://github.com/sansepolcro19/korganization)
+|**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|A. Gangemi - A.G. Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE) 
+|**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|S. Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
+|**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|S. Caraceni - S.  Pescarin|/
+|**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Visual communication laboratory|F. Ielacqua- D. Giorgetta|/
+|**[The Lives ](https://giorgimariachiara.github.io/DTTH/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository][(https://github.com/giorgimariachiara/DTTH)](https://github.com/giorgimariachiara/TheLivesOf) 
+
+
+
+
+
+
+
+
