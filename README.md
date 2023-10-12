@@ -5,7 +5,6 @@ Hey there! This is my GitHub portfolio where I've gathered some of the projects 
 
 
 
-This repository contains all the projects developed so far for my master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" at the Alma Mater University of Bologna. 
 
 # Projects:
 |**Project**|**Course**|**Professor(s)**|**Notes**
