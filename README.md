@@ -17,6 +17,9 @@ This repository contains all the projects developed so far for my master degree 
 |**[The star's law](https://github.com/elizastuglik/Thestarslaw)**|Digital Heritage and Multimedia|S. Caraceni - S.  Pescarin|/
 |**[La Storia è...](https://github.com/giorgimariachiara/Lastoria.git)**|Visual communication laboratory|F. Ielacqua - D. Giorgetta|/
 |**[The Lives ](https://giorgimariachiara.github.io/TheLivesOf/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf) 
+| | - Project Requirements ||
+The overall purpose of MMMM is to create a system that organizes content into publications that are: – nicely presented according to easily switchable typographic themes,– georeferenced and shown on map, and – enriched with a rich supply of metadata and additional services. The editorial board chooses 1, 2 or 3 topics (depending on the size of the group), and 3 texts (long or very long) on each topic, converts them into HTML, places interesting metadata in the content, and displays them with interesting connections between the articles, and a map. All typographic details, such as font family, sizes, colors, margins, aspect ratios, page sizes, images, captions, etc. are designed to exactly reflect a graphic theme. Thus the texts take the form and the feeling of a real serial publication, and stylistic and organizational similarities are really perceivable.|
+
 
 
 
